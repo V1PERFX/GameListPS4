@@ -1,5 +1,37 @@
 [
   {
+    "id": "CUSA44012",
+    "title": "YOHANE THE PARHELION -BLAZE in the DEEPBLUE-",
+    "image": "images/yohane_the_parhelion_blaze_in_the_deepblue_icon.PNG",
+    "alt": "Yohane the Parhelion Blaze in the Deepblue",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA01326",
+    "title": "Dust - An Elysian Tail",
+    "image": "images/dust_an_elysian_tail_icon.PNG",
+    "alt": "Dust An Elysian Tail",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA19104",
+    "title": "Phantom Breaker - Omnia",
+    "image": "images/phantom_breaker_omnia_icon.PNG",
+    "alt": "Phantom Breaker Omnia",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA16501",
+    "title": "AKIBA'S TRIP - Hellbound & Debriefed",
+    "image": "images/akibas trip_hellbound_debriefed_icon.PNG",
+    "alt": "Akiba's Trip Hellbound Debriefed",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
     "id": "CUSA01166",
     "title": "AKIBA'S TRIP - UNDEAD &#xFF06; UNDRESSED",
     "image": "images/akibas_trip_undead_undressed_icon.PNG",
