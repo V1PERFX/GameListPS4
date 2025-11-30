@@ -1,5 +1,29 @@
 [
   {
+    "id": "CUSA01166",
+    "title": "AKIBA'S TRIP - UNDEAD &#xFF06; UNDRESSED",
+    "image": "images/akibas_trip_undead_undressed_icon.PNG",
+    "alt": "Akiba's Trip Undead Undressed",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA41703",
+    "title": "Pocket Bravery",
+    "image": "images/pocket_bravery_icon.PNG",
+    "alt": "Pocket Bravery",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA04071",
+    "title": "UNO®",
+    "image": "images/uno_icon.PNG",
+    "alt": "UNO",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
     "id": "CUSA18886",
     "title": "Sackboy™ - A Big Adventure",
     "image": "images/sackboy_a_big_adventure_icon.PNG",
