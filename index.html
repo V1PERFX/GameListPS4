@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Rafael Viper">
+  <meta name="description" content="Pagina que lista meus jogos de PS4">
+  <meta name="theme-color" content="#1f2937">
+  <title>Games PS4</title>
+  <link href="images/favicon.png" rel="icon">
+  <link href="images/favicon.png" rel="apple-touch-icon">
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <div class="shell">
+    <header>
+      <div class="title-block">
+        <h1>
+          Biblioteca de Games
+          <span class="badge">PS4</span>
+        </h1>
+        <p class="subtitle">
+          Lista dos meus jogos.
+        </p>
+      </div>
+      <div class="controls">
+        <div class="search-wrapper" id="searchWrapper">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor"
+              d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16a6.471 6.471 0 0 0 4.23-1.57l.27.28v.79L20 20.5 21.5 19 15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
+          </svg>
+          <input id="searchInput" type="search" placeholder="Buscar..." autocomplete="off" />
+          <button class="clear-btn" id="clearSearch" aria-label="Limpar busca">x</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="filters-bar" id="filtersBar">
+        <button class="filter-pill is-active" data-filter="all">Todos</button>
+        <button class="filter-pill" data-filter="jogando">Jogando</button>
+        <button class="filter-pill" data-filter="adquirido">Adquirido</button>
+        <button class="filter-pill" data-filter="concluido">Concluído</button>
+        <button class="filter-pill" data-filter="nao-concluido">Não Concluído</button>
+        <button class="filter-pill" data-filter="nao-gostei">Não Gostei</button>
+      </div>
+
+      <div id="grid" class="grid"></div>
+
+      <div id="emptyState" class="empty-state" style="display: none;">
+        <div class="empty-pill">
+          <span class="pill-dot"></span>
+          Nenhum resultado
+        </div>
+        <div>Não foram encontrados jogos para essa combinação de busca e filtro.</div>
+      </div>
+    </main>
+
+    <footer>
+      <span>Criado para listar jogos das minhas mídias físicas / digitais.</span>
+      <span>2025 - Rafael Viper</span>
+    </footer>
+  </div>
+
+  <script src="js/loadgames.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>

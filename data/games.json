@@ -1,0 +1,290 @@
+[
+  {
+    "id": "CUSA18886",
+    "title": "Sackboy™ - A Big Adventure",
+    "image": "images/sackboy_a_big_adventure_icon.PNG",
+    "alt": "Sackboy A Big Adventure",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA10242",
+    "title": "Gal&#x2217;Gun 2",
+    "image": "images/galgun_2_icon.PNG",
+    "alt": "GalGun 2",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA16444",
+    "title": "AeternoBlade II",
+    "image": "images/aeternoblade_ii_icon.PNG",
+    "alt": "AeternoBlade II",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA13434",
+    "title": "Castlevania Requiem - Symphony Of The Night & Rondo Of Blood",
+    "image": "images/castlevania_requiem_symphony_of_the_night_rondo_of_blood_icon.PNG",
+    "alt": "Castlevania Requiem Symphony Of The Night & Rondo Of Blood",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA42984",
+    "title": "Eternights",
+    "image": "images/eternights_icon.PNG",
+    "alt": "Eternights",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA24853",
+    "title": "Kena - Bridge of Spirits",
+    "image": "images/kena_bridge_of_spirits_icon.PNG",
+    "alt": "Kena Bridge of Spirits",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA02799",
+    "title": "The Witch and the Hundred Knight - Revival Edition",
+    "image": "images/the_witch_and_the_hundred_knight_revival_edition_icon.PNG",
+    "alt": "The Witch and the Hundred Knight Revival Edition",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA10155",
+    "title": "The Witch and the Hundred Knight 2",
+    "image": "images/the_witch_and_the_hundred_knight_2_icon.PNG",
+    "alt": "The Witch and the Hundred Knight 2",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA00472",
+    "title": "TRANSFORMERS - Rise of the Dark Spark",
+    "image": "images/transformers_rise_of_the_dark_spark_icon.PNG",
+    "alt": "Transformers Rise of the Dark Spark",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA08418",
+    "title": "ŌKAMI HD",
+    "image": "images/okami_hd_icon.PNG",
+    "alt": "OKAMI HD",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA10410",
+    "title": "CODE VEIN",
+    "image": "images/code_vein_icon.PNG",
+    "alt": "Code Vein",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA19035",
+    "title": "Crash Bandicoot™ 4 - It's About Time",
+    "image": "images/crash_bandicoot_4_its_about_time_icon.PNG",
+    "alt": "Crash Bandicoot 4 It's About Time",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA34255",
+    "title": "LEGO® 2K Drive (Awesome Rivals Edition)",
+    "image": "images/lego_2k_drive_icon.PNG",
+    "alt": "LEGO 2K Drive",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA04606",
+    "title": "Gal&#x2217;Gun Double Peace",
+    "image": "images/galgun_double_peace_icon.PNG",
+    "alt": "GalGun Double Peace",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA02876",
+    "title": "AeternoBlade",
+    "image": "images/aeternoblade_icon.PNG",
+    "alt": "AeternoBlade",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA06545",
+    "title": "[PROTOTYPE® BIOHAZARD BUNDLE]",
+    "image": "images/prototype_biohazard_bundle_icon.PNG",
+    "alt": "Prototype Biohazard Bundle",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA04893",
+    "title": "Assassin's Creed® The Ezio Collection",
+    "image": "images/assassins_creed_the_ezio_collection_icon.PNG",
+    "alt": "Assassin's Creed The Ezio Collection",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA03173",
+    "title": "Bloodborne™ (Game of The Year Edition)",
+    "image": "images/bloodborne_icon.PNG",
+    "alt": "Bloodborne",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA15036",
+    "title": "Catherine - Full Body (Digital Deluxe Edition)",
+    "image": "images/catherine_full_body_icon.PNG",
+    "alt": "Catherine Full Body",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA28986",
+    "title": "FATAL FRAME - Maiden of Black Water",
+    "image": "images/fatal_frame_maiden_of_black_water_icon.PNG",
+    "alt": "Fatal Frame Maiden of Black Water",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA13323",
+    "title": "Ghost of Tsushima (Director's Cut)",
+    "image": "images/ghost_of_tsushima_icon.PNG",
+    "alt": "Ghost of Tsushima",
+    "region": "EU",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA34384",
+    "title": "God of War Ragnarök",
+    "image": "images/god_of_war_ragnarok_icon.PNG",
+    "alt": "God of War Ragnarok",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA07408",
+    "title": "God of War",
+    "image": "images/god_of_war_icon.PNG",
+    "alt": "God of War",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA01623",
+    "title": "God of War® III Remastered",
+    "image": "images/god_of_war_iii_remastered_icon.PNG",
+    "alt": "God of War III Remastered",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA00304",
+    "title": "Trials Fusion™ (The Awesome Max Edition)",
+    "image": "images/trials_fusion_icon.PNG",
+    "alt": "Trials Fusion",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA00552",
+    "title": "The Last of Us™ Remastered",
+    "image": "images/the_last_of_us_remastered_icon.PNG",
+    "alt": "The Last of Us Remastered",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA25272",
+    "title": "THE KING OF FIGHTERS XV",
+    "image": "images/the_king_of_fighters_xv_icon.PNG",
+    "alt": "The King of Fighters XV",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA02509",
+    "title": "Saint Seiya - Soldiers' Soul",
+    "image": "images/saint_seiya_soldiers_soul_icon.PNG",
+    "alt": "Saint Seiya Soldiers' Soul",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA00068",
+    "title": "KNACK™",
+    "image": "images/knack_icon.PNG",
+    "alt": "Knack",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA01130",
+    "title": "Gravity Rush™ Remastered",
+    "image": "images/gravity_rush_remastered_icon.PNG",
+    "alt": "Gravity Rush Remastered",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA03694",
+    "title": "GRAVITY RUSH™ 2",
+    "image": "images/gravity_rush_2_icon.PNG",
+    "alt": "Gravity Rush 2",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA05083",
+    "title": "Odin Sphere Leifthrasir",
+    "image": "images/odin_sphere_leifthrasir_icon.PNG",
+    "alt": "Odin Sphere Leifthrasir",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA08014",
+    "title": "KNACK 2",
+    "image": "images/knack_2_icon.PNG",
+    "alt": "Knack 2",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA45905",
+    "title": "SHINOBI - Art of Vengeance",
+    "image": "images/shinobi_art_of_vengeance_icon.PNG",
+    "alt": "Shinobi Art of Vengeance",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA07820",
+    "title": "The Last of Us™ Part II",
+    "image": "images/the_last_of_us_part_ii_icon.PNG",
+    "alt": "The Last of Us Part II",
+    "region": "US",
+    "status": "adquirido"
+  },
+  {
+    "id": "CUSA44836",
+    "title": "Legacy of Kain™ Soul Reaver 1&2 Remastered",
+    "image": "images/legacy_of_kain_soul_reaver_1_2_remastered_icon.PNG",
+    "alt": "Legacy of Kain Soul Reaver 1&2 Remastered",
+    "region": "US",
+    "status": "adquirido"
+  }
+]
