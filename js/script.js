@@ -3,7 +3,6 @@ const searchInput = document.getElementById('searchInput');
 const clearSearchBtn = document.getElementById('clearSearch');
 const searchWrapper = document.getElementById('searchWrapper');
 const filterButtons = Array.from(document.querySelectorAll('.filter-pill'));
-;
 const emptyState = document.getElementById('emptyState');
 
 let activeFilter = 'all';
@@ -60,6 +59,3 @@ filterButtons.forEach(btn => {
     applyFilters();
   });
 });
-
-// Primeira aplicação (caso tenha tema salvo / filtros)
-applyFilters();
