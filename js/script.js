@@ -70,3 +70,49 @@ function formatStatus(status) {
   };
   return map[status] || status;
 }
+
+// ---------- Lógica do Modal ----------
+const modal = document.getElementById('gameModal');
+const closeModalBtn = document.getElementById('closeModal');
+const modalElements = {
+  img: document.getElementById('modalImage'),
+  title: document.getElementById('modalTitle'),
+  region: document.getElementById('modalRegion'),
+  id: document.getElementById('modalId'),
+  status: document.getElementById('modalStatusText')
+};
+
+// Função global para ser chamada pelo loadgames.js
+window.openGameModal = function(game) {
+  modalElements.img.src = game.image;
+  modalElements.img.alt = game.alt;
+  modalElements.title.textContent = game.title;
+  modalElements.region.textContent = game.region;
+  modalElements.id.textContent = game.id; // Mostrando o ID aqui!
+  modalElements.status.innerHTML = `Status: ${formatStatus(game.status)}`; // Reusando função de formatação
+  
+  modal.classList.add('is-open');
+  modal.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden'; // Evita rolar a página de trás
+};
+
+function closeGameModal() {
+  modal.classList.remove('is-open');
+  modal.setAttribute('aria-hidden', 'true');
+  document.body.style.overflow = '';
+}
+
+// Fechar ao clicar no X
+closeModalBtn.addEventListener('click', closeGameModal);
+
+// Fechar ao clicar fora (no overlay escuro)
+modal.addEventListener('click', (e) => {
+  if (e.target === modal) closeGameModal();
+});
+
+// Fechar com ESC
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && modal.classList.contains('is-open')) {
+    closeGameModal();
+  }
+});

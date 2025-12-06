@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
       games.forEach(game => {
         const card = document.createElement("article");
         card.classList.add("card", "fade-in");
+        card.addEventListener('click', () => window.openGameModal(game));
         card.dataset.title = game.alt;
         card.dataset.status = game.status;
 

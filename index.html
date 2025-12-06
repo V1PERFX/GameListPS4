@@ -64,6 +64,29 @@
     </footer>
   </div>
 
+  <div id="gameModal" class="modal-overlay" aria-hidden="true">
+    <div class="modal-content">
+      <button id="closeModal" class="modal-close-btn">&times;</button>
+
+      <div class="modal-header">
+        <img id="modalImage" src="" alt="">
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-meta">
+          <span id="modalRegion" class="card-tag"></span>
+          <span id="modalId" class="game-id-badge"></span>
+        </div>
+
+        <h2 id="modalTitle"></h2>
+
+        <div class="modal-status-line">
+          <span id="modalStatusText"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script src="js/script.js"></script>
   <script src="js/loadgames.js"></script>
 </body>
