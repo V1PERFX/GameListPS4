@@ -59,3 +59,14 @@ filterButtons.forEach(btn => {
     applyFilters();
   });
 });
+
+function formatStatus(status) {
+  const map = {
+    "jogando": "Jogando",
+    "adquirido": "Adquirido",
+    "concluido": "Concluído",
+    "nao-concluido": "Não Concluído",
+    "nao-gostei": "Não Gostei"
+  };
+  return map[status] || status;
+}

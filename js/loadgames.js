@@ -37,14 +37,3 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .catch(err => console.error("Erro ao carregar JSON:", err));
 });
-
-function formatStatus(status) {
-  const map = {
-    "jogando": "Jogando",
-    "adquirido": "Adquirido",
-    "concluido": "Concluído",
-    "nao-concluido": "Não Concluído",
-    "nao-gostei": "Não Gostei"
-  };
-  return map[status] || status;
-}
