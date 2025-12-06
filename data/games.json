@@ -53,7 +53,7 @@
     "image": "images/uno_icon.PNG",
     "alt": "UNO",
     "region": "US",
-    "status": "adquirido"
+    "status": "nao-gostei"
   },
   {
     "id": "CUSA18886",
@@ -101,7 +101,7 @@
     "image": "images/kena_bridge_of_spirits_icon.PNG",
     "alt": "Kena Bridge of Spirits",
     "region": "US",
-    "status": "adquirido"
+    "status": "jogando"
   },
   {
     "id": "CUSA02799",
@@ -245,7 +245,7 @@
     "image": "images/god_of_war_iii_remastered_icon.PNG",
     "alt": "God of War III Remastered",
     "region": "US",
-    "status": "adquirido"
+    "status": "jogando"
   },
   {
     "id": "CUSA00304",
@@ -261,7 +261,7 @@
     "image": "images/the_last_of_us_remastered_icon.PNG",
     "alt": "The Last of Us Remastered",
     "region": "US",
-    "status": "adquirido"
+    "status": "jogando"
   },
   {
     "id": "CUSA25272",
@@ -277,7 +277,7 @@
     "image": "images/saint_seiya_soldiers_soul_icon.PNG",
     "alt": "Saint Seiya Soldiers' Soul",
     "region": "US",
-    "status": "adquirido"
+    "status": "jogando"
   },
   {
     "id": "CUSA00068",
@@ -309,7 +309,7 @@
     "image": "images/odin_sphere_leifthrasir_icon.PNG",
     "alt": "Odin Sphere Leifthrasir",
     "region": "US",
-    "status": "adquirido"
+    "status": "jogando"
   },
   {
     "id": "CUSA08014",
@@ -325,7 +325,7 @@
     "image": "images/shinobi_art_of_vengeance_icon.PNG",
     "alt": "Shinobi Art of Vengeance",
     "region": "US",
-    "status": "adquirido"
+    "status": "jogando"
   },
   {
     "id": "CUSA07820",
@@ -333,7 +333,7 @@
     "image": "images/the_last_of_us_part_ii_icon.PNG",
     "alt": "The Last of Us Part II",
     "region": "US",
-    "status": "adquirido"
+    "status": "jogando"
   },
   {
     "id": "CUSA44836",
@@ -341,6 +341,6 @@
     "image": "images/legacy_of_kain_soul_reaver_1_2_remastered_icon.PNG",
     "alt": "Legacy of Kain Soul Reaver 1&2 Remastered",
     "region": "US",
-    "status": "adquirido"
+    "status": "jogando"
   }
 ]
